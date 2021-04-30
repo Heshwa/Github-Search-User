@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374932615743",
+    "project_id": "coolpad-e434f",
+    "storage_bucket": "coolpad-e434f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374932615743:android:c30f2e1f2b121c0ca43e8a",
+        "android_client_info": {
+          "package_name": "com.heshwa.githubuserssearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374932615743-dn206fkuv4immij2t61jc09e9dflh7t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heshwa.githubuserssearch",
+            "certificate_hash": "f5fbe04c95385455d773381ee3a84901d81f5bcc"
+          }
+        },
+        {
+          "client_id": "374932615743-8silh856in26u6cv94m8s5td041e97io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHN-GDfFU7SoXHFLuROHMDEeNh3dV9lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374932615743-8silh856in26u6cv94m8s5td041e97io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
